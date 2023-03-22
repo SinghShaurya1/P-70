@@ -88,7 +88,7 @@ export default class RideScreen extends Component {
 
              // onPress={this.getCameraPermissions()}
             // onPress={() => this.getCameraPermissions()}
-             // onPress={() => this.getCameraPermissions}
+              onPress={() => this.getCameraPermissions}
              // onPress=() => this.getCameraPermissions()
 
              
